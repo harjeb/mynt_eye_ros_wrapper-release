@@ -1,0 +1,12 @@
+Source: ros-kinetic-mynt-eye-ros-wrapper
+Section: misc
+Priority: extra
+Maintainer: John Zhao <johnzhao@slightech.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-cv-bridge, ros-kinetic-geometry-msgs, ros-kinetic-image-transport, ros-kinetic-libmynteye, ros-kinetic-message-generation, ros-kinetic-nodelet, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-mynt-eye-ros-wrapper
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-cv-bridge, ros-kinetic-geometry-msgs, ros-kinetic-image-transport, ros-kinetic-libmynteye, ros-kinetic-message-runtime, ros-kinetic-nodelet, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf
+Description: The mynt eye ros wrapper package

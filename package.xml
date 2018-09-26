@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>mynt_eye_ros_wrapper</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>The mynt eye ros wrapper package</description>
 
   <maintainer email="johnzhao@slightech.com">John Zhao</maintainer>
@@ -23,6 +23,7 @@
   <build_depend>std_msgs</build_depend>
   <build_depend>tf</build_depend>
   <build_depend>libmynteye</build_depend>
+  <build_depend>libopencv-dev</build_depend>
 
   <build_export_depend>cv_bridge</build_export_depend>
   <build_export_depend>geometry_msgs</build_export_depend>

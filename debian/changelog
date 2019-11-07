@@ -1,0 +1,39 @@
+ros-kinetic-mynt-eye-ros-wrapper (0.1.5-2xenial) xenial; urgency=high
+
+  * update
+  * code update
+  * fix depend
+  * add libmyneye depend
+  * update
+  * modify mynteye
+  * add glog and mynteye
+  * init
+  * Contributors: harjeb
+
+ -- John Zhao <johnzhao@slightech.com>  Wed, 06 Nov 2019 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.4-2xenial) xenial; urgency=high
+
+  * update to SDK 2.6
+
+ -- John Zhao <johnzhao@slightech.com>  Tue, 06 Nov 2018 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.3-2xenial) xenial; urgency=high
+
+  * fix opencv detect
+
+ -- John Zhao <johnzhao@slightech.com>  Tue, 25 Sep 2018 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.2-2xenial) xenial; urgency=high
+
+  * add libopencv-dev
+
+ -- John Zhao <johnzhao@slightech.com>  Tue, 25 Sep 2018 16:00:00 -0000
+
+ros-kinetic-mynt-eye-ros-wrapper (0.1.1-2xenial) xenial; urgency=high
+
+  * Initial release
+
+ -- John Zhao <johnzhao@slightech.com>  Mon, 10 Sep 2018 16:00:00 -0000
+
+

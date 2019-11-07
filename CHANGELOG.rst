@@ -2,8 +2,8 @@
 Changelog for package mynt_eye_ros_wrapper
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.5 (2019-11-07)
+------------------
 * update
 * code update
 * fix depend
@@ -26,3 +26,7 @@ Forthcoming
 0.1.3 (2018-09-26)
 ------------------
 * fix opencv detect
+
+0.1.4 (2018-11-07)
+------------------
+* update to SDK 2.6
